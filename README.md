@@ -19,7 +19,7 @@ At the top of every page, the website has a navigation menu with the following e
 
 The website consists of seven pages, including:
 -    #### A landing page containing the links to each visualizations page and a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
-<img src="assets/images/app_landing_page,png" width="500">
+<img src="assets/images/app_landing_page.png" width="500">
 
 -    #### Four visualization pages,  each with the plot or visualization for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
 <img src="assets/images/app_visualization_max_temperature.png" width="500">
