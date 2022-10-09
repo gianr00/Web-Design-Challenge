@@ -18,19 +18,18 @@ At the top of every page, the website has a navigation menu with the following e
 -    Links on the right: "Comparison," which links to the comparisons page, and "Data," which links to the data page.
 
 The website consists of seven pages, including:
--    ### A landing page containing the links to each visualizations page and a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
-    <img src="assets/images/app_landing_page.png" width="500"> 
+-    #### A landing page containing the links to each visualizations page and a sidebar containing preview images of each plot. Clicking an image should take the user to that visualization.
+<img src="assets/images/app_landing_page,png" width="500">
 
--    ### Four visualization pages,  each with the plot or visualization for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
+-    #### Four visualization pages,  each with the plot or visualization for the selected comparison (latitude vs: max temperature, humidity, cloudiness, or wind speed). 
 <img src="assets/images/app_visualization_max_temperature.png" width="500">
 <img src="assets/images/app_visualization_humidity.png" width="500">
 <img src="assets/images/app_visualization_cloudiness.png" width="500">
 <img src="assets/images/app_visualization_wind_speed.png" width="500">
 
--    ### A  comparisons page containing all of the visualizations on the same page so they can easily be compared with each other.
-    <img src="assets/images/app_comparison.png" width="500">
+-    #### A  comparisons page containing all of the visualizations on the same page so they can easily be compared with each other.
+<img src="assets/images/app_comparison.png" width="500">
 
--    A data that displays a responsive table containing the data used in the visualizations.
-    <img src="assets/images/app_data.png" width="500">
+-    #### A data that displays a responsive table containing the data used in the visualizations.
+<img src="assets/images/app_data.png" width="500">
 
-Web Visualization Dashboard-Weather Data Analysis
