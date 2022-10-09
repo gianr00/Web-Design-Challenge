@@ -7,7 +7,7 @@ Website URL:     tbd
 Build With: HTML, CSS, Bootstrap, pandas
 
 ## Goal:
-Create a website to display the data visualizations results created in project “City’s weather data analysis”. 
+Create a website to display the data visualizations results created in project “Weather data analysis”. 
 
 ## Solutions:
 Build a website dashboard with individual pages for each data visualization plot and a way to navigate between them.  The pages contain the visualizations plot and descriptions. The website contains a page to provide a comparison of all the plots, along with another page to present the data used to build them.
